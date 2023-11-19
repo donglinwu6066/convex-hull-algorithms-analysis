@@ -3,3 +3,11 @@ This is the original code for the final algorithm presentation project of Rice U
 
 * Instructor: Braverman, Vladimir
 * Semester: Fall 2023
+
+## Team members:
+1. cj35: Chia-Wei Jan  
+    email: jcwccu@gmail.com
+2. dw73: Dong-Lin Wu  
+    email: dw73@rice.edu
+3. kh123: Kuang-Tse Hung  
+    email: kh123@rice.edu
